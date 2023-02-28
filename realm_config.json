@@ -1,0 +1,8 @@
+{
+    "app_id": "soulofox-game-server-egwsl",
+    "config_version": 20210101,
+    "name": "Soulofox-game-server",
+    "location": "IN-MB",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL"
+}

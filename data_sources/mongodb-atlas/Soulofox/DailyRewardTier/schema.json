@@ -1,0 +1,14 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "points": {
+            "bsonType": "long"
+        },
+        "tier": {
+            "bsonType": "int"
+        }
+    },
+    "title": "DailyRewardTier"
+}
